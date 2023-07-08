@@ -13,7 +13,6 @@ const LoginPage = () => {
   };
 
   const handleSubmit = (e) => {
-    e.preventDefault();
     // Add your login logic here
     console.log('Email:', email);
     console.log('Password:', password);
@@ -21,7 +20,6 @@ const LoginPage = () => {
     setEmail('');
     setPassword('');
   };
-
   return (
     <div>
       <h2>Login</h2>
@@ -35,7 +33,7 @@ const LoginPage = () => {
           <input type="password" value={password} onChange={handlePasswordChange} required />
         </div>
         <div>
-          <button type="submit">Signup</button>
+          <button type="submit">SignOut</button>
         </div>
       </form>
     </div>
