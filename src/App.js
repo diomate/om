@@ -33,7 +33,7 @@ const LoginPage = () => {
           <input type="password" value={password} onChange={handlePasswordChange} required />
         </div>
         <div>
-          <button type="submit">Button</button>
+          <button type="submit">Sign up</button>
         </div>
       </form>
     </div>
