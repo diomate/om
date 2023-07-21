@@ -80,7 +80,7 @@ let Footer = () => {
             </div>
             <hr className={footerCss.breakLine} />
             <div className={footerCss.sec3}>
-                Created by team DIOMATE
+               <b> Created by team DIOMATE (Khushdeep Kaur, Om Prakash Kumar, Nishant singh, Parvesh Nehra)</b>
             </div>
         </div>
     </div>
