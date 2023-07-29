@@ -16,12 +16,12 @@ const MyAddresses = ({hashId}) => {
     let data = [
         {
             id: 1,
-            title: "CGC Collage of Engineering",
+            title: "Diomate Cafe",
             address: "Mohali, Punjab",
         },
         {
             id:2,
-            title: "Phase 5",
+            title: "Diomate Cafe",
             address: "Mohali,Punjab",
         }
     ]
