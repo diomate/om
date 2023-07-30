@@ -1,12 +1,8 @@
 # Diomate (zomato clone)
 
-**Live App Demo Link:** [Zomato Clone Live App Demo](https://zomatoclone.koushilmankali.in/)
+**Live App Demo Link:** [Diomate Live App Demo](https://om.diomate.com/)
 
-Zomato is a online food ordering application, we made a clone (Diomate) of it using React Js, Zomato Frontend clone using React Js.
-
-### Project Demonistration Video: 
-
-[![Zomato clone demonistration video](https://img.youtube.com/vi/lNfS_8bJA5c/0.jpg)](https://www.youtube.com/watch?v=lNfS_8bJA5c)
+Diomate is a online food ordering application, we made a diomate using React Js, Diomate Frontend using React Js.
 
 ## Pages Developed:
 
