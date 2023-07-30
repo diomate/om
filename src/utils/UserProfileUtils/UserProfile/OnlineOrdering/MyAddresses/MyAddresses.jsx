@@ -21,7 +21,7 @@ const MyAddresses = ({hashId}) => {
         },
         {
             id:2,
-            title: "phase 5",
+            title: "Diomate Cafe",
             address: "Mohali,Punjab",
         }
     ]
