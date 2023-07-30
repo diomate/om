@@ -1,4 +1,4 @@
-# Diomate (zomato clone)
+# Diomate (Food delivery website)
 
 **Live App Demo Link:** [Diomate Live App Demo](https://om.diomate.com/)
 
